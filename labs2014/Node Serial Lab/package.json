@@ -5,7 +5,7 @@
   	"name":"Tom Igoe"
    },
   "dependencies": {
-    "serialport": "1.6.2",
+    "serialport": "6.0.0",
     "servi": ">=0.0.6"
   },
   "engines": {
